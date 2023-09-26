@@ -1,0 +1,39 @@
+.formContainer{
+    width: 100%;
+}
+
+.formdata{
+    display: flex;
+    flex-direction: column;
+    /* width: 60%; */
+    height: auto;
+    background-color: #fff;
+    padding: 20px;
+    justify-content: flex-start;
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+
+.formdiv{
+  width: 100% !important;
+}
+.imgUploadButtonContainer{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100% !important;
+}
+/* .dropdown{
+    width: 70%;
+    padding: 5px 12px;
+    color: black;
+} */
+
+/* new css  */
+
+/* product.css */
